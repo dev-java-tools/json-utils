@@ -6,12 +6,14 @@
 
     <groupId>dev.javatools</groupId>
     <artifactId>json-utils</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.5</version>
     <packaging>jar</packaging>
 
     <name>json-utils</name>
-    <description>This Java library contains the APIs to sort and format a json, update a specific field and get a specific field
-        from a json. Get all the paths for a given Json and also get all the fields in json as a set of properties with the complete json path as key.
+    <description>This Java library contains the APIs to sort and format a json, update a specific field and get a
+        specific field
+        from a json. Get all the paths for a given Json and also get all the fields in json as a set of properties with
+        the complete json path as key.
     </description>
     <url>https://www.javatools.dev</url>
     <inceptionYear>2020</inceptionYear>
@@ -41,7 +43,7 @@
         <org.junit.jupiter.version>[5.7.0,)</org.junit.jupiter.version>
         <org.slf4j.api.version>[1.7.30,)</org.slf4j.api.version>
         <org.projectlombok.version>[1.18.16,)</org.projectlombok.version>
-        <dev.javatools.maputils.version>0.0.3-SNAPSHOT</dev.javatools.maputils.version>
+        <dev.javatools.maputils.version>0.0.5</dev.javatools.maputils.version>
     </properties>
 
     <issueManagement>
@@ -155,5 +157,5 @@
             </plugin>
         </plugins>
     </build>
-    
+
 </project>
