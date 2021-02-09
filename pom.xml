@@ -6,7 +6,7 @@
 
     <groupId>dev.javatools</groupId>
     <artifactId>json-utils</artifactId>
-    <version>0.0.5</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>json-utils</name>
@@ -43,7 +43,7 @@
         <org.junit.jupiter.version>[5.7.0,)</org.junit.jupiter.version>
         <org.slf4j.api.version>[1.7.30,)</org.slf4j.api.version>
         <org.projectlombok.version>[1.18.16,)</org.projectlombok.version>
-        <dev.javatools.maputils.version>0.0.5</dev.javatools.maputils.version>
+        <dev.javatools.maputils.version>1.0.1</dev.javatools.maputils.version>
     </properties>
 
     <issueManagement>
